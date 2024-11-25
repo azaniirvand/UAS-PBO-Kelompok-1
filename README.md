@@ -10,3 +10,7 @@ cara pakai git
 6. git commit -m "keterangan"
 7. git push
 
+jika ingin mengambil bentuk file terbaru dari main
+1. masuk ke folder yang telah di init
+2. git pull origin main
+
