@@ -6,7 +6,7 @@ Anggota
 - Teuku Hafiz Izham
 - Muhammad Al-Hadziq Tarmizi
 - Dio Ferdi Jaya
-----+----
+
 
    cara pakai git
 
