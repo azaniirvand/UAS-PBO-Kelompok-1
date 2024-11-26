@@ -6,9 +6,9 @@ Anggota
 - Teuku Hafiz Izham
 - Muhammad Al-Hadziq Tarmizi
 - Dio Ferdi Jaya
+----+----
 
-
-- cara pakai git
+   cara pakai git
 
 1. git clone https://github.com/azaniirvand/UAS-PBO-Kelompok-1.git
 2. masuk ke folder
