@@ -6,7 +6,7 @@ Anggota
 - Randy Maulana - 2308107010054
 - Teuku Hafiz Izham - 23081070100
 - Muhammad Al-Hadziq Tarmizi - 23081070100
-- Dio Ferdi Jaya - 23081070100
+- Dio Ferdi Jaya - 2308107010018
 - Abdurrahman Marzuki - 23081070100
 - Teuku Zhilalmuhana - 23081070100
 
