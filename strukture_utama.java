@@ -138,8 +138,8 @@ public class UASPBO {
             System.out.println("1. Lihat Barang");
             System.out.println("2. Masukkan Barang ke Keranjang");
             System.out.println("3. Checkout");
-            System.out.println("4. Pilih Menu Pembayaran");
-            System.out.println("5. History Transaksi");
+            System.out.println("4. Lihat Status Pesanan");
+            System.out.println("5. Lihat History Transaksi");
             System.out.println("6. Logout");
             System.out.print("Pilih menu: ");
             int menu = scanner.nextInt();
@@ -156,7 +156,7 @@ public class UASPBO {
                     System.out.println("Fitur Checkout belum tersedia.");
                     break;
                 case 4:
-                    System.out.println("Fitur Pilih Menu Pembayaran belum tersedia.");
+                    System.out.println("Fitur Pilih Menu Lihat Status Pesanan belum tersedia.");
                     break;
                 case 5:
                     System.out.println("Fitur History Transaksi belum tersedia.");
