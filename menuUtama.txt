@@ -1,0 +1,28 @@
+public static void main(String[] args) {
+    File baseFolder = new File(basePath);
+    if (!baseFolder.exists()) baseFolder.mkdirs();
+
+    while (true) {
+        System.out.println("Menu Utama:");
+        System.out.println("1. Login");
+        System.out.println("2. Registrasi");
+        System.out.println("3. Keluar");
+        System.out.print("Pilih menu: ");
+        int menu = scanner.nextInt();
+        scanner.nextLine();
+
+        switch (menu) {
+            case 1:
+                login();
+                break;
+            case 2:
+                registrasi();
+                break;
+            case 3:
+                System.exit(0); // Keluar dari aplikasi
+                break;
+            default:
+                System.out.println("Pilihan tidak valid.");
+        }
+    }
+}
