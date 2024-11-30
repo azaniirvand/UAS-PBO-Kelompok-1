@@ -8,7 +8,7 @@ Anggota
 - Muhammad Al-Hadziq Tarmizi - 23081070100
 - Dio Ferdi Jaya - 2308107010018
 - Abdurrahman Marzuki - 2308107010020
-- Teuku Zhilalmuhana - 23081070100
+- Teuku Zhilalmuhana - 2008107010052
 
 
    cara pakai git
