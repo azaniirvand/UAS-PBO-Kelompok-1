@@ -1,5 +1,17 @@
 # UAS-PBO-Kelompok-1
-cara pakai git
+Nama Kelompok 'Mas Mas Kece'
+
+Anggota
+- Muhammad Azani Irvand - 23081070100
+- Randy Maulana - 2308107010054
+- Teuku Hafiz Izham - 23081070100
+- Muhammad Al-Hadziq Tarmizi - 23081070100
+- Dio Ferdi Jaya - 2308107010018
+- Abdurrahman Marzuki - 2308107010020
+- Teuku Zhilalmuhana - 23081070100
+
+
+   cara pakai git
 
 1. git clone https://github.com/azaniirvand/UAS-PBO-Kelompok-1.git
 2. masuk ke folder
