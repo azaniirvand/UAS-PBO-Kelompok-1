@@ -2,13 +2,6 @@
 Nama Kelompok 'Mas Mas Kece'
 
 Anggota
-
-- Muhammad Azani Irvand
-- Randy Maulana
-- Teuku Hafiz Izham
-- Muhammad Al-Hadziq Tarmizi
-- Dio Ferdi Jaya
-
 - Muhammad Azani Irvand - 2308107010026
 - Randy Maulana - 2308107010054
 - Teuku Hafiz Izham - 23081070100
@@ -24,8 +17,8 @@ Anggota
 1. git clone https://github.com/azaniirvand/UAS-PBO-Kelompok-1.git
 2. masuk ke folder
 3. ubah file
-3. git init
-4. git remote set-url origin https://github.com/azaniirvand/UAS-PBO-Kelompok-1.git
-5. git add <namafile>
-6. git commit -m "keterangan"
-7. git push
+4. git init
+5. git remote set-url origin https://github.com/azaniirvand/UAS-PBO-Kelompok-1.git
+6. git add <namafile>
+7. git commit -m "keterangan"
+8. git push
