@@ -4,7 +4,7 @@ Nama Kelompok 'Mas Mas Kece'
 Anggota
 - Muhammad Azani Irvand - 2308107010026
 - Randy Maulana - 2308107010054
-- Teuku Hafiz Izham - 23081070100
+- Teuku Hafiz Izham - 2308107010056
 - Muhammad Al-Hadziq Tarmizi - 23081070100
 - Dio Ferdi Jaya - 2308107010018
 - Abdurrahman Marzuki - 2308107010020
