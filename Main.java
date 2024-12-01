@@ -15,6 +15,7 @@ public class Main {
             System.out.println("+--------------------+");
             System.out.println("| 1 | Login          |");
             System.out.println("| 2 | Registrasi     |");
+            System.out.println("| 3 | Exit           |");
             System.out.println("+--------------------+");
             System.out.print("Pilih menu: ");
 
@@ -28,6 +29,8 @@ public class Main {
                 case 2:
                     akun.registrasi();
                     break;
+                case 3:
+                    System.exit(0);
                 default:
                     System.out.println("Pilihan tidak valid.");
             }
