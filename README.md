@@ -5,7 +5,7 @@ Anggota
 - Muhammad Azani Irvand - 2308107010026
 - Randy Maulana - 2308107010054
 - Teuku Hafiz Izham - 2308107010056
-- Muhammad Al-Hadziq Tarmizi - 23081070100
+- Muhammad Al-Hadziq Tarmizi - 2108107010022
 - Dio Ferdi Jaya - 2308107010018
 - Abdurrahman Marzuki - 2308107010020
 - Teuku Zhilalmuhana - 2008107010052
