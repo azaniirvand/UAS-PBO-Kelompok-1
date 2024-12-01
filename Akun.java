@@ -10,10 +10,10 @@ public class Akun {
     public void registrasi() {
         
         System.out.println("+--------------------+");
-        System.out.println("|      Menu Utama    |");
+        System.out.println("| Registrasi sebagai |");
         System.out.println("+--------------------+");
-        System.out.println("| 1 | Login          |");
-        System.out.println("| 2 | Registrasi     |");
+        System.out.println("| 1 | Admin          |");
+        System.out.println("| 2 | Customer       |");
         System.out.println("+--------------------+");
         System.out.print("Pilih menu: ");
 
@@ -27,7 +27,7 @@ public class Akun {
         else{
             input.nextLine();
             System.out.println("+---------------------------+");
-            System.out.println("|        Login Akun         |");
+            System.out.println("|        Masukkan data      |");
             System.out.println("+---------------------------+");
             System.out.print("| Masukkan ID      : ");
             id = input.nextLine();
