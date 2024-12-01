@@ -8,6 +8,7 @@ public class metodeBayar {
         System.out.println("2. Bank Transfer");
         System.out.println("3. COD (Cash on Delivery)");
     
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         int pilihan = scanner.nextInt();
     
