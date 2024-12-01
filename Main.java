@@ -31,6 +31,7 @@ public class Main {
                     break;
                 case 3:
                     System.exit(0);
+                    break;
                 default:
                     System.out.println("Pilihan tidak valid.");
             }
