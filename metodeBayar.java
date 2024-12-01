@@ -3,12 +3,15 @@ import java.util.UUID;
 
 public class metodeBayar {
     public void pilihMetodePembayaran(String customerId) {
-        System.out.println("Pilih Metode Pembayaran:");
-        System.out.println("1. QRIS");
-        System.out.println("2. Bank Transfer");
-        System.out.println("3. COD (Cash on Delivery)");
-    
-        @SuppressWarnings("resource")
+            System.out.println("+---------------------------+");
+            System.out.println("|  Pilih Metode Pembayaran  |");
+            System.out.println("+---------------------------+");
+            System.out.println("| 1 | QRIS                  |");
+            System.out.println("| 2 | Bank Transfer         |");
+            System.out.println("| 3 | COD (Cash on Delivery)|");
+            System.out.println("+---------------------------+");
+            System.out.print("Pilih menu: ");
+            @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         int pilihan = scanner.nextInt();
     
