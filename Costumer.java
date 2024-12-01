@@ -6,13 +6,16 @@ public class Costumer extends Akun {
     Scanner scanner = new Scanner(System.in);
     public void menuCustomer(String customerId) {
         while (true) {
-            System.out.println("Menu Customer:");
-            System.out.println("1. Lihat Barang");
-            System.out.println("2. Masukkan Barang ke Keranjang");
-            System.out.println("3. Checkout Barang");
-            System.out.println("4. Lihat Status Pesanan");
-            System.out.println("5. Lihat History Transaksi");
-            System.out.println("6. Logout");
+            System.out.println("+---------------------------------+");
+            System.out.println("|         Menu Costumer           |");
+            System.out.println("+---------------------------------+");
+            System.out.println("| 1 | Lihat Barang                |");
+            System.out.println("| 2 | Masukkan Barang ke Keranjang|");
+            System.out.println("| 3 | Checkout Barang             |");
+            System.out.println("| 4 | Lihat Status Pesanan        |");
+            System.out.println("| 5 | Lihat History Transaksi     |");
+            System.out.println("| 6 | Logout                      |");
+            System.out.println("+---------------------------------+");
             System.out.print("Pilih menu: ");
             int menu = scanner.nextInt();
             scanner.nextLine();
